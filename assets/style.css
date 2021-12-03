@@ -1,0 +1,12 @@
+/* CSS header*/
+.col-md-12{
+    padding: 0;
+}
+/*CSS main */
+.my-intro{
+    text-align: justify;
+}
+footer {
+    background-color: #ddd;
+    
+}
